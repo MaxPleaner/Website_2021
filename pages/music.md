@@ -9,3 +9,7 @@
 [DRUMMER](https://website2021public.s3-us-west-1.amazonaws.com/music/drummer.wav)
 
 [TECHNA](https://website2021public.s3-us-west-1.amazonaws.com/music/techna.wav)
+
+[rock_band](https://website2021public.s3-us-west-1.amazonaws.com/music/ROCK_BAND.wav)
+
+[livin_the_past (cringe edition)](https://website2021public.s3-us-west-1.amazonaws.com/music/livin_the_past.wav)
