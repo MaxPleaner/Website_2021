@@ -1,3 +1,3 @@
 ## Hello and welcome to my website
 
-[test link]('./pages/test')
+[test link](./pages/test)
